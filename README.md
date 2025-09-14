@@ -1,6 +1,7 @@
 ## Sistema de gerenciamento de eventos
 
 Sistema desenvolvido em Java via Eclipse IDE para cadastro e gerenciamento de eventos - Trabalho para o curso de Programação de soluções computacionais da Universidade UniRitter.
+Possui Diagrama de classes UML para visualização do sistema.
 
 ## Funcionalidades
 
@@ -11,7 +12,7 @@ Sistema desenvolvido em Java via Eclipse IDE para cadastro e gerenciamento de ev
 - Dados salvos em arquivo "events.data"
 - Interface via console
 
-## Paaso a Passo para executar
+## Passo a Passo para executar
 - Possuir Java JDK 21 ou superior
 - Utilizar Eclipse IDE (recomendado) ou qualquer IDE Java
 
